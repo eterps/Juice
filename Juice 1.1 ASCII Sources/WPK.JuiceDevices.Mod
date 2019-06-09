@@ -645,5 +645,3 @@ BEGIN
 	blue.red := 0; blue.green := 0; blue.blue := 255;
 	cur := NIL; InitAPI();
 END JuiceDevices.
-
-
